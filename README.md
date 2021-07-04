@@ -62,4 +62,4 @@ int main() {
 ```
 
 ### Output
-![output](https://github.com/Thoufar/Matrix-Class/blob/main/docs/Matrix%20out.png)
+![output](https://github.com/Thoufar/Matrix-Class/blob/master/docs/Matrix%20out.png)
